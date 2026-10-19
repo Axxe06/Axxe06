@@ -1,7 +1,12 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Axe</h1>
+<h3 align="center">A passionate frontend developer from SIJUNJUNG</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/danu rizki akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danu rizki akbar" height="30" width="40" /></a>
+<a href="https://fb.com/danu rizki akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danu rizki akbar" height="30" width="40" /></a>
+<a href="https://instagram.com/ini1akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ini1akbar" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/27571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="27571" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
